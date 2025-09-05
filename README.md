@@ -164,8 +164,8 @@
   <!-- Hero -->
   <section id="home" class="hero">
     <div class="hero-content">
-      <h1>Hello, I'm <span>Mr your name</span></h1>
-      <p>I am the student officer</p>
+      <h1>Hello, I'm <span>Mr Delish Kumar V</span></h1>
+      <p>I am the student </p>
       <a href="#projects" class="btn">View My Work</a>
     </div>
   </section>
@@ -250,7 +250,7 @@
 
   <!-- Footer -->
   <footer>
-    <p>&copy; 2025 MR__ YOGA | All rights reserved</p>
+    <p>&copy; 2025 MR DELISH KUMAR| All rights reserved</p>
   </footer>
 
   <!-- Scripts -->

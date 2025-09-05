@@ -164,7 +164,7 @@
   <!-- Hero -->
   <section id="home" class="hero">
     <div class="hero-content">
-      <h1>Hello, I'm <span>Mr Delish Kumar V</span></h1>
+      <h1>Hello, I'm <span>Mr Delish Kumar. V</span></h1>
       <p>I am the student </p>
       <a href="#projects" class="btn">View My Work</a>
     </div>
